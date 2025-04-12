@@ -1,1 +1,0 @@
-https://github.com/nikita-pugachev/ono-tebe-nado-fd
