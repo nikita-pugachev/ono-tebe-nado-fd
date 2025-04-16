@@ -132,8 +132,8 @@
 }
 
 .lots__heading {
-  padding-bottom: 28px;
-  padding-left: 40px;
+  margin-bottom: 28px;
+  margin-left: 40px;
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
@@ -265,6 +265,6 @@
   list-style: none;
 }
 
-.footer__social-icon {
+.social-icon {
   width: 48px;
 }
