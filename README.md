@@ -1,5 +1,7 @@
 # Проект "Оно тебе надо"
+
 [Просмотреть проект на GitHub](https://github.com/nikita-pugachev/ono-tebe-nado-fd)
+
 [Посмотреть проект на GitHub Pages](https://nikita-pugachev.github.io/ono-tebe-nado-fd/)
 
 ## О проекте
