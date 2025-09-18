@@ -25,5 +25,5 @@ git@github.com:nikita-pugachev/ono-tebe-nado-fd.git
 ```
 **2.Запуск**
 * Открыть проект в VS Code
-* Установить плагин Live Server
+* [Установить плагин Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 * Открыть просмотр проекта в любом браузере с помощью кнопки Go Live
