@@ -8,7 +8,9 @@
 Проект "Оно тебе надо" это аукцион вещей, или, если быть точнее, аукцион, на который выставленны исполнившиеся мечты людей. Этот проект - моя самая первая работа в роли начинающего Frontend-разработчика. В нём реализованы базовые навыки вёрстки на HTML и CSS. А так же я планирую написать логику проекту, реализованную на JavaScript.
 
 ## Взгляд на проект
-<img src="./images/ono-tebe-nado.png" width=300 height=300>
+<img src="./images/ono-tebe-nado.png" width=500 height=500>
+<img src="./images/ono-tebe-nado-lots.png" width=500 height=500>
+<img src="./images/ono-tebe-nado-about.png" width=500 height=500>
 
 ## Используемые технологии
 * HTML
